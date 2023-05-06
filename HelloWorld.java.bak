@@ -6,6 +6,5 @@ class HelloWorld {
         System.out.println("Hello, Ashish!");
         System.out.println("Where do you stay ?");
         System.out.println("How are you doing today ?");
-		System.out.println("I am in feature/devops branch");
     }
 }
